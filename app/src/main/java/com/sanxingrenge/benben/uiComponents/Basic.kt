@@ -207,7 +207,7 @@ private fun AnimatedTextDesign(isError: Boolean, errorMsg: String) {
 
 @Composable
 fun SignInEditText(
-    hint: String, inputType: CustomInputType, isEnabled: Boolean = true,
+    hintt: String, inputType: CustomInputType, isEnabled: Boolean = true,
     showAllError: MutableState<Boolean>? = null,
     selectedText: String? = null,
     onDataChanged: (String) -> Unit,
@@ -271,7 +271,7 @@ fun SignInEditText(
     OutlinedTextField(
         visualTransformation = visualTransformation.value,
         isError = isError.value,
-        placeholder = { Text(text = hint) },
+        placeholder = { Text(text = hintt) },
         value = liveSelectedText.value,
         onValueChange = {
             liveSelectedText.value = it
