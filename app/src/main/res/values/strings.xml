@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Osomate</string>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_profile_detail">ProfileDetailActivity</string>
+    <string name="title_activity_discover_filter">DiscoverFilterActivity</string>
+    <string name="title_activity_search_user">SearchUserActivity</string>
+    <string name="title_activity_personality_test">PersonalityTestActivity</string>
+    <string name="title_activity_my_personality">MyPersonalityActivity</string>
+    <string name="title_activity_get_premium">GetPremiumActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_edit_interest">EditInterestActivity</string>
+    <string name="title_activity_main_setting">MainSettingActivity</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <string name="title_activity_terms_privacy">TermsPrivacyActivity</string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+    <string name="title_activity_feedback_records">FeedbackRecordsActivity</string>
+    <string name="title_activity_change_email">ChangeEmailActivity</string>
+    <string name="title_activity_chinese_zodiac">ChineseZodiacActivity</string>
+    <string name="title_activity_super">SuperActivity</string>
+
+
+    <string name="google_search_api_key">AIzaSyBa0bj1AU-_R1woXIgqGXN0u3kQmppkP9A</string>
+
+    <!--<string name="google_search_api_key">AIzaSyDGXidAZJf2UE1yz9YMzFGZKkbUvq2vUV8</string>-->
+    <string name="client_ids">451289516583-ehipkk1lacfguopp2g8n8n9t5i3cphmh.apps.googleusercontent.com</string>
+
+    <string name="app_Id">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtNViwBqiVfmbcLzGNmxSIiaZMQQzMWw9dmPegKjnyUHalQ1xZmbwhpmyuwJ43uSVSVeCWsA0lDqPIZ/bOnKPMX2K1xvqq2WzqgGnHCoJ9qrw3EiUJojJvapPgtgfXnj+RSHuK3OVm2rgoWtQhSmAwQEJQDOVUXdqs7YfsMpzWhcEgtAKHcRIqUWGCX7QkP13f7kGZO88Q+rrXyRGj2/2wJw8C8gQ7uOFACryxyKDpDJxrk7qLBc1qbB6aq+EGMLWTHvU9tadKRn7Ji42sgsm1/AI0EoQIU373DVjKUiEyo2oaa1roEDNJKSkvsmhLreVvrf5AVgBlHqYJsAEsODGRwIDAQAB</string>
+
+    <string name="facebook_app_id">731135452361202</string>
+    <string name="facebook_client_token">6996db727b54f759214c2b522ac958d4</string>
+    <!--<string name="fb_login_protocol_scheme">fb[APP_ID]</string>-->
+    <string name="fb_login_protocol_scheme">fb731135452361202</string>
+    <string name="google_client_id" translatable="false">957862856792-p8k87nlqcnd93s05u8212dav2gg2cat7.apps.googleusercontent.com</string>
+
+
+</resources>

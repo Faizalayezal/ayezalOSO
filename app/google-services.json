@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "957862856792",
+    "firebase_url": "https://osomate-6505e-default-rtdb.firebaseio.com",
+    "project_id": "osomate-6505e",
+    "storage_bucket": "osomate-6505e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957862856792:android:086f984b1bc432f17d622d",
+        "android_client_info": {
+          "package_name": "com.sanxingrenge.benben"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957862856792-8ifvoaad0ed57c6976nu3r1829vctpup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanxingrenge.benben",
+            "certificate_hash": "8b7ca89c8216696d055a45f412fd1fa5c2ccc962"
+          }
+        },
+        {
+          "client_id": "957862856792-95ru39b2h1j6qihmmfd7ql0gipaek76l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanxingrenge.benben",
+            "certificate_hash": "dce9879d8789c9857b08561867c9f8157b922e55"
+          }
+        },
+        {
+          "client_id": "957862856792-o9950cqfbrrohu5bf37ttupnhsdns7u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanxingrenge.benben",
+            "certificate_hash": "44cfa68ea58ed26c8abc31d16326d4b36dad8c7f"
+          }
+        },
+        {
+          "client_id": "957862856792-p8k87nlqcnd93s05u8212dav2gg2cat7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLGikrAP1aE0SWMOGfetpC-8oef0DADk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957862856792-p2nil04p34tn0ps5293q2nllko3epbf5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957862856792-5k6bilssuvihbmo1pt0v8b12p6l7kt7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osomate.benben"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

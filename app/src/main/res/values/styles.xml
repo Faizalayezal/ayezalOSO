@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultNumberPickerTheme" parent="Theme.Osomate">
+        <item name="android:colorControlNormal">@color/transparent</item>
+        <item name="android:fontFamily">@font/poppins_extrabold</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>

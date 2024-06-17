@@ -1,0 +1,35 @@
+package com.sanxingrenge.benben.responseModel
+
+data class SignInEmailPasswordResponse(
+    val status: Boolean?,
+    val message: String?,
+    val user_id: Int?,
+    val data: SignInEmailPasswordDataResponse?,
+)
+data class SignInEmailPasswordDataResponse(
+    val id:Int?,
+    val email:String?,
+    val register_otp:String?,
+    val login_otp:String?,
+    val name:String?,
+    val birthdate:String?,
+    val country_id:String?,
+    val religion_id:String?,
+    val gender:String?,
+    val education_id:String?,
+    val occupation:String?,
+    val height:String?,
+    val weight:String?,
+    val relationship_id:String?,
+    val marital_status_id:String?,
+    val kid_id:String?,
+    val image:String?,
+    val age:Int?,
+    val city_id:String?,
+    val address:String?,
+    val latitude:String?,
+    val longitude:String?,
+    val status:String?,
+    val updated_at:String?,
+    val created_at:String?,
+)
